@@ -1,9 +1,17 @@
 @charset "UTF-8";
 
 body {
-    background-color: black;
+    background-color: white;
 }
 
 h1 {
     color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul > li {
+    list-style: none;
 }
